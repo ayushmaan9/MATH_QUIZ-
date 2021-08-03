@@ -1,0 +1,24 @@
+.body_background 
+{
+    background-image: url("Downlaod-Website-Background.jpg");
+    background-position: center;
+    background-size: cover;
+	color: white;
+}
+.login_div1
+	{
+		background-color: rgb(130, 222, 238);
+		padding: 5px;
+		float: none;
+		border-radius: 2px;
+	}
+	#output
+{
+background: rgb(30, 116, 197);
+border-radius: 10px;
+border-top: 10px solid rgb(236, 104, 16);
+padding: 10px;
+float: none;
+text-align: left;
+color: black;
+}
